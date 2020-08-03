@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cake.DotNetCoreEFAzure", "src\Cake.DotNetCoreEFAzure\Cake.DotNetCoreEFAzure.csproj", "{9A177D76-D11E-4055-81B7-21A10D935C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake.DotNetCoreEfAzure.UnitTests", "src\Cake.DotNetCoreEfAzure.UnitTests\Cake.DotNetCoreEfAzure.UnitTests.csproj", "{D1C13D87-E2D5-4778-A11D-D8BBE7618EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A177D76-D11E-4055-81B7-21A10D935C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A177D76-D11E-4055-81B7-21A10D935C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A177D76-D11E-4055-81B7-21A10D935C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A177D76-D11E-4055-81B7-21A10D935C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C13D87-E2D5-4778-A11D-D8BBE7618EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C13D87-E2D5-4778-A11D-D8BBE7618EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C13D87-E2D5-4778-A11D-D8BBE7618EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C13D87-E2D5-4778-A11D-D8BBE7618EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67472166-2052-4823-8A97-B4D66113EB27}
+	EndGlobalSection
+EndGlobal
